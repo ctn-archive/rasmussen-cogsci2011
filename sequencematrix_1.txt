@@ -1,0 +1,51 @@
+#sequence matrix 1 
+
+#matrix
+1
+shape line; number one; angle 0deg
+
+1
+shape line; number two; angle 0deg
+
+1
+shape line; number three; angle 0deg
+
+1
+shape line; number one; angle 45deg
+
+1
+shape line; number two; angle 45deg
+
+1
+shape line; number three; angle 45deg
+
+1
+shape line; number one; angle 90deg
+
+1
+shape line; number two; angle 90deg
+
+#answers
+1
+shape line; number three; angle 45deg
+
+1
+shape line; number two; angle 90deg
+
+1
+shape line; number three; angle 0deg
+
+1
+shape line; number three; angle 135deg
+
+1
+shape line; number two; angle 135deg
+
+1
+shape line; number two; angle 0deg
+
+1
+shape line; number four; angle 90deg
+
+1
+shape line; number three; angle 90deg
